@@ -1,16 +1,16 @@
 body {
-	background: url("background.jpg"); /* Links to your background image, which you can also replace with a URL. */
+	background: url("https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiZ9sO_vsbeAhXjGTQIHdjhCLkQjRx6BAgBEAU&url=https%3A%2F%2Fwww.wildtattooart.com%2Fmandala-tattoos&psig=AOvVaw12Ein5Yc8geTvSqVanFgo-&ust=1541824617907388"); /* Links to your background image, which you can also replace with a URL. */
 	background-size: cover; /* Image covers page. */
 	background-repeat: no-repeat; /* Image does not repeat. */
 	background-attachment: fixed; /* Image doesn't move when you scroll up or down. */
 	background-position: top;
 	text-align: center;
-	color: white; /* Text color. */
+	color: red; /* Text color. */
 	font-family: 'Avenir', sans-serif; /* Font: sans-serif included in case browser doesn't support first option. */
 }
 
 h1 {
-	font-size: 100px;
+	font-size: 200px;
 }
 
 h2 {
